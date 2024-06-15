@@ -1,2 +1,3 @@
-# ticmd
-A simple program running commands as TrustedInstaller without starting its service
+# ticmd - TrustedInstaller Command
+A simple program running commands as TrustedInstaller without starting its service. 
+Usage: ticmd.exe [cmd.exe /c whoami]
